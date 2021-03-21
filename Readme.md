@@ -49,15 +49,15 @@ Use of this dataset in publications must be cited to the following publication:
 
 @article{
 <ul>year={2013},</ul>
-issn={2192-6352},
-journal={Progress in Artificial Intelligence},
-doi={10.1007/s13748-013-0040-3},
-title={Event labeling combining ensemble detectors and background knowledge},
-url={http://dx.doi.org/10.1007/s13748-013-0040-3},
-publisher={Springer Berlin Heidelberg},
-keywords={Event labeling; Event detection; Ensemble learning; Background knowledge},
-author={Fanaee-T, Hadi and Gama, Joao},
-pages={1-15}
+<ul>issn={2192-6352},</ul>
+<ul>journal={Progress in Artificial Intelligence},</ul>
+<ul>doi={10.1007/s13748-013-0040-3},</ul>
+<ul>title={Event labeling combining ensemble detectors and background knowledge},</ul>
+<ul>url={http://dx.doi.org/10.1007/s13748-013-0040-3},</ul>
+<ul>publisher={Springer Berlin Heidelberg},</ul>
+<ul>keywords={Event labeling; Event detection; Ensemble learning; Background knowledge},</ul>
+<ul>author={Fanaee-T, Hadi and Gama, Joao},</ul>
+<ul>pages={1-15}</ul>
 }
 
 Contact:
