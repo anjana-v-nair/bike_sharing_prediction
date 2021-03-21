@@ -48,18 +48,19 @@ Use of this dataset in publications must be cited to the following publication:
 [1] Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
 
 @article{
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year={2013},
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;issn={2192-6352},
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal={Progress in Artificial Intelligence},
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;doi={10.1007/s13748-013-0040-3},
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title={Event labeling combining ensemble detectors and background knowledge},
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;url={http://dx.doi.org/10.1007/s13748-013-0040-3},
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;publisher={Springer Berlin Heidelberg},
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;keywords={Event labeling; Event detection; Ensemble learning; Background knowledge},
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author={Fanaee-T, Hadi and Gama, Joao},
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pages={1-15}
+year={2013},
+issn={2192-6352},
+journal={Progress in Artificial Intelligence},
+doi={10.1007/s13748-013-0040-3},
+title={Event labeling combining ensemble detectors and background knowledge},
+url={http://dx.doi.org/10.1007/s13748-013-0040-3},
+publisher={Springer Berlin Heidelberg},
+keywords={Event labeling; Event detection; Ensemble learning; Background knowledge},
+author={Fanaee-T, Hadi and Gama, Joao},
+pages={1-15}
 }
 
 Contact:
+
 For further information about this dataset please contact Hadi Fanaee-T
 (hadi.fanaee@fe.up.pt)
